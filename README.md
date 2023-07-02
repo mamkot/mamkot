@@ -1,4 +1,4 @@
-### and the sparks fly... 👋
+### Olá, eu sou a Isabely! 👋
 
 <div>
 
@@ -9,5 +9,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&hide_progress=true&theme=merko)
 
 <img align="right" alt="Isa-Photo" src="https://i.picasion.com/pic92/18038fc884c3698a92d46dd069152c88.gif">
-
-![Snake animation](https://github.com/mamkot)
