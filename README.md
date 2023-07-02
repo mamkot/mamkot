@@ -8,10 +8,8 @@
 </p>
 
   <p align="center">
-<a href="https://github.com/mamkot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"" />
-</a>
-<a href="https://github.com/mamkot/convoychat">
+<a href="https://github.com/mamkot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&layout=compact&langs_count=7&theme=merko" />
 </a>
 </p>
