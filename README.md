@@ -1,16 +1,13 @@
-### Hi there 👋
+### and the sparks fly... 👋
 
-<!--
-**mamkot/mamkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/mamkot">
+    
+![Isabely's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true$count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&hide_progress=true&theme=merko)
+
+<img align="right" alt="Isa-Photo" src="https://i.picasion.com/pic92/18038fc884c3698a92d46dd069152c88.gif">
+
+![Snake animation](https://github.com/mamkot)
