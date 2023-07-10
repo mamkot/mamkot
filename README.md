@@ -1,15 +1,17 @@
 <h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1443/1443114.png" alt="Ícone" width="45" height="45" /> 
+  <img src="https://github.com/mamkot/mamkot/assets/102431539/71c89647-1fca-45aa-a8f0-cea121a31e4b" alt="Ícone" width="33" height="33" /> 
    Olá, eu sou a Isabely! 
 </h1>
 
-  <p align="center">
- <img src="https://i.picasion.com/pic92/18038fc884c3698a92d46dd069152c88.gif" alt="Animação" />
-</p>
+<h1 align="center">
+  
+![ezgif com-resize (1)](https://github.com/mamkot/mamkot/assets/102431539/3b3a2318-cca3-42a5-8112-fd8dab45ff11)
 
-  <p align="center">
+</h1>
+
+<h1 align="center">
 <a href="https://github.com/mamkot">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&layout=compact&langs_count=7&theme=merko" />
 </a>
-</p>
+</h1>
