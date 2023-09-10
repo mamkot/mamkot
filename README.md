@@ -5,13 +5,13 @@
 
 <h1 align="center">
   
-![ezgif com-resize (1)](https://github.com/mamkot/mamkot/assets/102431539/3b3a2318-cca3-42a5-8112-fd8dab45ff11)
+![ezgif com-resize](https://github.com/mamkot/mamkot/assets/102431539/173e917c-91db-4ed6-b834-7adb67d98cd8)
 
 </h1>
 
 <h1 align="center">
 <a href="https://github.com/mamkot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&layout=compact&langs_count=7&theme=merko" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=mamkot&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamkot&layout=compact&langs_count=7&theme=merko" />
 </a>
 </h1>
